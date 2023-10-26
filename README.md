@@ -2,6 +2,8 @@
 
 This Python script creates a web-based text translation application using the Gradio library and the Hugging Face Transformers library. The application allows users to translate text from one language to another using the mBART translation model.
 
+![app](https://github.com/abdullawagih1/MultiLanguages-Translation/assets/79201865/ed6b2cde-5548-4029-b603-2662256041a9)
+
 ## Features
 
 - Translate text from a source language to a target language.
